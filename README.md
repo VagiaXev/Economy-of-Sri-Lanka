@@ -5,8 +5,8 @@ The data analysis of this projects was carried out in Python.
 
 The steps that we applied to the dataset arisen from Kaggle Dataset were the following ones: 
 
-1. Data loading using Pandas Library.
-2. Data cleaning (convert data types, take care of missing values, remove irrelevant elements such as %)
+1. Data Loading using Pandas Library.
+2. Data Cleaning (convert data types, take care of missing values, remove irrelevant elements such as %)
 3. Data Visualization of comparable measures using Seaborn and Matplotlib libraries.
 
 This is a guided project that was carried out with the guidance of @data_science_teacher_brandyn. 
